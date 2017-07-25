@@ -30,8 +30,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdig
 #EXTINF:-1 tvg-id="GLOBO NORDESTE HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png" group-title="CANAIS ABERTOS",[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR gold]HD[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/marceloxaviier/KHStmuUmWo/817.ts&name=[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR gold]HD[/COLOR][/B]
 
-#EXTINF:-1 tvg-id="GLOBO PREMIUM SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png" group-title="CANAIS ABERTOS",[B][COLOR white]GLOBO PREMIUM[/COLOR] [COLOR gold]SD[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/marceloxaviier/KHStmuUmWo/1024.ts&name=[B][COLOR white]GLOBO PREMIUM[/COLOR] [COLOR gold]SD[/COLOR][/B]
+#EXTINF:-1 tvg-id="GLOBO PREMIUM SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png" group-title="CANAIS ABERTOS",[B][COLOR white]GLOBO PREMIUM[/COLOR] [COLOR red]OFF[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/marceloxaviier/KHStmuUmWo/1024.ts&name=[B][COLOR white]GLOBO PREMIUM[/COLOR] [COLOR red]OFF[/COLOR][/B]
 
 #EXTINF:-1 tvg-id="GLOBO RJ HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png" group-title="CANAIS ABERTOS",[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]HD[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://painel.tvdigitalsbl.net:8081/live/marceloxaviier/KHStmuUmWo/467.ts&name=[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]HD[/COLOR][/B]
