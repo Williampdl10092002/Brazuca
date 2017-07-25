@@ -1,2 +1,0 @@
-# Brazuca
-Brazuca Play
