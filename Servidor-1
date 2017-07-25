@@ -51,7 +51,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.sv1.tv
 #EXTINF:-1 tvg-id="SBT SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sbt.png" group-title="CANAIS ABERTOS",[B][COLOR white]SBT[/COLOR] [COLOR gold]SD[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.sv1.tv:25461/live/Flaviocliente/5070/1747.ts&name=[B][COLOR white]SBT[/COLOR] [COLOR gold]SD[/COLOR][/B]
 
-#EXTINF:-1 tvg-id="SBT SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sbt.png" group-title="CANAIS ABERTOS",[B][COLOR white]SBT[/COLOR] [COLOR gold]SD[/COLOR][/B]
+#EXTINF:-1 tvg-id="SBT SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sbt.png" group-title="CANAIS ABERTOS",[B][COLOR white]SBT[/COLOR] [COLOR red]OFF[/COLOR][/B]
 http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV APARECIDA HD" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2016/09/tv_aparecida.png" group-title="CANAIS ABERTOS",[B][COLOR white]TV APARECIDA[/COLOR] [COLOR gold]HD[/COLOR][/B]
