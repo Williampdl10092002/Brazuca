@@ -67,6 +67,41 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineip
 #EXTINF:-1 tvg-id="VIVA SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/viva.png" group-title="CANAIS ABERTOS",[B][COLOR white]VIVA[/COLOR] [COLOR gold]SD[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1705.ts&name=[B][COLOR white]VIVA[/COLOR] [COLOR gold]SD[/COLOR][/B]
 
+################################################################################# INFANTIL
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="INFANTIL",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cartoon_network.png" group-title="INFANTIL",[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1847.ts&name=[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="BOOMERANG SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/boomerang.png" group-title="INFANTIL",[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1852.ts&name=[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_channel.png" group-title="INFANTIL",[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1832.ts&name=[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_kids.png" group-title="INFANTIL",[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1836.ts&name=[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISNEY JUNIOR SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_junior.png" group-title="INFANTIL",[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1831.ts&name=[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISNEY XD SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_xd.png" group-title="INFANTIL",[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1830.ts&name=[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="GLOOB SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/gloob.png" group-title="INFANTIL",[B][COLOR white]GLOOB[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1808.ts&name=[B][COLOR white]GLOOB[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="NICK JUNIOR SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick_jr.png" group-title="INFANTIL",[B][COLOR white]NICK JUNIOR[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1778.ts&name=[B][COLOR white]NICK JUNIOR[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="NICKELODEON SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick.png" group-title="INFANTIL",[B][COLOR white]NICKELODEON[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1777.ts&name=[B][COLOR white]NICKELODEON[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TOONCAST SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tooncast.png" group-title="INFANTIL",[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1713.ts&name=[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
 ################################################################################# DOCUMENTÁRIOS
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="DOCUMENTÁRIOS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]
@@ -441,41 +476,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineip
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/warner_channel.png" group-title="FILMES & SÉRIES",[B][COLOR white]WARNER CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1704.ts&name=[B][COLOR white]WARNER CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]
-
-################################################################################# INFANTIL
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="INFANTIL",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]
-here
-
-#EXTINF:-1 tvg-id="CARTOON NETWORK SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cartoon_network.png" group-title="INFANTIL",[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]SD[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1847.ts&name=[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]SD[/COLOR][/B]
-
-#EXTINF:-1 tvg-id="BOOMERANG SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/boomerang.png" group-title="INFANTIL",[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]SD[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1852.ts&name=[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]SD[/COLOR][/B]
-
-#EXTINF:-1 tvg-id="DISNEY CHANNEL SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_channel.png" group-title="INFANTIL",[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1832.ts&name=[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]
-
-#EXTINF:-1 tvg-id="DISCOVERY KIDS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_kids.png" group-title="INFANTIL",[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]SD[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1836.ts&name=[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]SD[/COLOR][/B]
-
-#EXTINF:-1 tvg-id="DISNEY JUNIOR SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_junior.png" group-title="INFANTIL",[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]SD[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1831.ts&name=[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]SD[/COLOR][/B]
-
-#EXTINF:-1 tvg-id="DISNEY XD SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_xd.png" group-title="INFANTIL",[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]SD[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1830.ts&name=[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]SD[/COLOR][/B]
-
-#EXTINF:-1 tvg-id="GLOOB SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/gloob.png" group-title="INFANTIL",[B][COLOR white]GLOOB[/COLOR] [COLOR gold]SD[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1808.ts&name=[B][COLOR white]GLOOB[/COLOR] [COLOR gold]SD[/COLOR][/B]
-
-#EXTINF:-1 tvg-id="NICK JUNIOR SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick_jr.png" group-title="INFANTIL",[B][COLOR white]NICK JUNIOR[/COLOR] [COLOR gold]SD[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1778.ts&name=[B][COLOR white]NICK JUNIOR[/COLOR] [COLOR gold]SD[/COLOR][/B]
-
-#EXTINF:-1 tvg-id="NICKELODEON SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick.png" group-title="INFANTIL",[B][COLOR white]NICKELODEON[/COLOR] [COLOR gold]SD[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1777.ts&name=[B][COLOR white]NICKELODEON[/COLOR] [COLOR gold]SD[/COLOR][/B]
-
-#EXTINF:-1 tvg-id="TOONCAST SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tooncast.png" group-title="INFANTIL",[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]SD[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.cineiptv.com:25461/live/212fabiano/166566/1713.ts&name=[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]SD[/COLOR][/B]
 
 ################################################################################# MÚSICAS & VARIEDADES
 
