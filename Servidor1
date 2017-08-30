@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="WILLIAM",[B][COLOR dodgerblue]LISTA FEITA POR WILLIAM[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="WILLIAM",[B][COLOR white]ATUALIZADA:[/COLOR][COLOR dodgerblue]30/08/2017[/COLOR][/B]
+here
+
 ################################################################################# CANAIS ABERTOS
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="CANAIS ABERTOS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]
