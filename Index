@@ -1,19 +1,22 @@
 <channels>
 </channels>
+
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]COMEÇAR ASSISTIR[/COLOR][/B]</name>
+<name>[B][COLOR blue]●[/COLOR] [COLOR white]COMEÇAR ASSISTIR[/COLOR][/B]</name>
 <thumbnail>http://i.imgur.com/Gc1zSfF.png</thumbnail>
 <externallink>http://brazucaplay.forumbrasil.net/h2-menu</externallink>
 <fanart>http://i.imgur.com/oVVI97U.jpg</fanart>
 </channel>
+
 <channel>
-<name>[B][COLOR white]FEITO POR:[/COLOR][/B]</name>
-<thumbnail>http://i.imgur.com/KbKr2Pk.png</thumbnail>
+<name> </name>
+<thumbnail> </thumbnail>
 <externallink> </externallink>
-<fanart>http://i.imgur.com/jwr1Q7P.jpg</fanart>
+<fanart> </fanart>
 </channel>
+
 <channel>
-<name>[B][COLOR lime]WILLIAM[/COLOR][/B]</name>
+<name>[B][COLOR white]FEITO POR:[/COLOR] [COLOR blue]●[/COLOR][/B]</name>
 <thumbnail>http://i.imgur.com/KbKr2Pk.png</thumbnail>
 <externallink> </externallink>
 <fanart>http://i.imgur.com/jwr1Q7P.jpg</fanart>
